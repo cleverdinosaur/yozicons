@@ -110,7 +110,7 @@ To get a local copy up and running follow these simple steps.
 
 You can place yozicons just about anywhere. I’ve tried to make it so that icons take on the characteristics and appear alongside text naturally.
 
-Yozicons are designed to be used with inline elements, and its recommended to stick with a consistent HTML element to reference them by in your project. I like the <i> tag for brevity and because most developers use <em></em> for emphasized/italicized semantic text these days. If that’s not your cup of tea, using a <span> is more semantically correct.
+Yozicons are designed to be used with inline elements, and its recommended to stick with a consistent HTML element to reference them by in your project. I like the &lt;i> tag for brevity and because most developers use &lt;em>&lt;/em> for emphasized/italicized semantic text these days. If that’s not your cup of tea, using a &lt;span> is more semantically correct.
 
 _For more examples, please refer to the [Documentation](https://cleverdinosaur.com/projects/yozicon)_
 
