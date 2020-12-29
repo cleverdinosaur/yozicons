@@ -29,7 +29,7 @@
     <a href="#"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="#">View Demo</a>
+    <a href="https://cleverdinosaur.github.io/yozicons/cheatsheet.html">View Demo</a>
     ·
     <a href="https://github.com/cleverdinosaur/yozicons/issues">Report Bug</a>
     ·
