@@ -1,0 +1,21 @@
+
+.y-edit_post:before { content: '\61'; } /* 'a' */
+.y-share:before { content: '\62'; } /* 'b' */
+.y-block:before { content: '\63'; } /* 'c' */
+.y-account_setting:before { content: '\64'; } /* 'd' */
+.y-add_friend:before { content: '\65'; } /* 'e' */
+.y-notification:before { content: '\66'; } /* 'f' */
+.y-home:before { content: '\67'; } /* 'g' */
+.y-dislike:before { content: '\68'; } /* 'h' */
+.y-like:before { content: '\69'; } /* 'i' */
+.y-bookmark:before { content: '\6a'; } /* 'j' */
+.y-dashboard:before { content: '\6b'; } /* 'k' */
+.y-messenger :before { content: '\6c'; } /* 'l' */
+.y-logo:before { content: '\6d'; } /* 'm' */
+.y-guard:before { content: '\6e'; } /* 'n' */
+.y-restricted:before { content: '\6f'; } /* 'o' */
+.y-mail:before { content: '\70'; } /* 'p' */
+.y-settings:before { content: '\71'; } /* 'q' */
+.y-chat:before { content: '\72'; } /* 'r' */
+.y-logout:before { content: '\73'; } /* 's' */
+.y-search:before { content: '\74'; } /* 't' */

@@ -1,0 +1,2 @@
+# yozicons
+ Minimalist Icon Font
